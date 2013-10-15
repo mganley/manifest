@@ -1,0 +1,8 @@
+<manifest>
+<remote name="github" fetch=".."/>
+
+<default revision="refs/heads/master" remote="github"/>
+
+<project name="per" remote="github" path="tools/ </project>
+
+</manifest>
