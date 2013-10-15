@@ -1,0 +1,4 @@
+manifest
+========
+
+Repositories for Manifests
