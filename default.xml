@@ -3,6 +3,6 @@
 
 <default revision="refs/heads/master" remote="github"/>
 
-<project name="per" remote="github" path="tools" />
+<project name="per" remote="github" revision="stable" path="tools" />
 
 </manifest>
