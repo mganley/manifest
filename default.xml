@@ -4,5 +4,6 @@
 <default revision="refs/heads/master" remote="github"/>
 
 <project name="per" remote="github" revision="stable" path="tools" />
+<project name="test1" remote="github" path="tools" />
 
 </manifest>
